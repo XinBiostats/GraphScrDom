@@ -13,7 +13,7 @@ setup(
         'pandas==1.4.4',
         'POT==0.9.4',
         'scanpy==1.9.6',
-        'scikit-learn==1.1.1',
+        'scikit-learn==1.3.2',
         'scikit-misc==0.1.4',
         'scipy==1.14.1',
         'torch==1.13.1',
