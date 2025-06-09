@@ -1,4 +1,3 @@
-import ot
 import os
 import torch
 import random
@@ -9,6 +8,7 @@ import scipy.sparse as sp
 from torch.backends import cudnn
 from scipy.sparse.csc import csc_matrix
 from scipy.sparse.csr import csr_matrix
+from scipy.spatial.distance import cdist
 from sklearn.ensemble import IsolationForest
 from scipy.sparse import issparse
 
@@ -26,7 +26,7 @@ def construct_interaction(adata, n_neighbors=3):
     position = adata.obsm['spatial']
     
     # calculate distance matrix
-    distance_matrix = ot.dist(position, position, metric='euclidean')
+    distance_matrix = cdist(position, position, metric='euclidean')
     n_spot = distance_matrix.shape[0]
     
     #adata.obsm['distance_matrix'] = distance_matrix
