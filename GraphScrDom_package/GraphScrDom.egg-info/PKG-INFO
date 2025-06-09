@@ -1,0 +1,27 @@
+Metadata-Version: 2.4
+Name: GraphScrDom
+Version: 0.1.0
+Summary: GraphScrDom
+Home-page: https://github.com/XinBiostats/GraphScrDom
+Author: Xin Ma
+Author-email: xin.ma@ufl.edu
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Requires-Dist: numpy==1.23.5
+Requires-Dist: pandas==1.4.4
+Requires-Dist: POT==0.9.4
+Requires-Dist: scanpy==1.9.6
+Requires-Dist: scikit-learn==1.1.1
+Requires-Dist: scipy==1.14.1
+Requires-Dist: torch==1.13.1
+Requires-Dist: torch-geometric==2.5.2
+Requires-Dist: tqdm==4.64.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

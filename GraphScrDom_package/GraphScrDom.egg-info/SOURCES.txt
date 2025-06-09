@@ -1,0 +1,13 @@
+setup.py
+GraphScrDom/GraphSCL.py
+GraphScrDom/GraphScrDom.py
+GraphScrDom/__init__.py
+GraphScrDom/loss.py
+GraphScrDom/model.py
+GraphScrDom/preprocess.py
+GraphScrDom/utils.py
+GraphScrDom.egg-info/PKG-INFO
+GraphScrDom.egg-info/SOURCES.txt
+GraphScrDom.egg-info/dependency_links.txt
+GraphScrDom.egg-info/requires.txt
+GraphScrDom.egg-info/top_level.txt
