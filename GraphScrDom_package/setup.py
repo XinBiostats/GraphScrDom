@@ -9,7 +9,7 @@ setup(
     url='https://github.com/XinBiostats/GraphScrDom',
     packages=find_packages(),
     install_requires=[
-        'numpy==1.23.5',
+        'numpy==1.24.1',
         'pandas==1.4.4',
         'POT==0.9.4',
         'scanpy==1.9.6',
