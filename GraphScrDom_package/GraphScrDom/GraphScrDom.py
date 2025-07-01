@@ -50,7 +50,7 @@ class GraphScrDom():
         
         fix_seed(seed = self.seed)
 
-        self.adata = self.adata[self.adata.obs['annotation'].notna()].copy()
+        #self.adata = self.adata[self.adata.obs['annotation'].notna()].copy()
         # 1. Data Preparation
 
         if 'highly_variable' not in self.adata.var.keys() and self.preprocess==True: # add preprocess argument for simulation data
