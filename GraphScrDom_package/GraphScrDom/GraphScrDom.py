@@ -33,8 +33,8 @@ class GraphScrDom():
         
         self.adata = adata.copy()
         self.preprocess = preprocess
-        self.dataset = self.adata.uns['dataset']
-        self.sample = self.adata.uns['sample']
+        #self.dataset = self.adata.uns['dataset']
+        #self.sample = self.adata.uns['sample']
         self.seed = seed
         self.device = device
         self.learning_rate = learning_rate
