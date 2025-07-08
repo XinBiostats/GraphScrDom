@@ -1,4 +1,9 @@
-# ![Logo](./assets/logo-removebg-preview.png) GraphScrDom
+<p align="left">
+  <img src="./assets/logo-removebg-preview.png" alt="GraphScrDom Logo" width="160"/>
+</p>
+
+# GraphScrDom
+# GraphScrDom
 
 A two-module pipeline for spatial domain detection using partial supervision from scribble annotations and multimodal spatial transcriptomics data.
 
