@@ -1,8 +1,9 @@
-<p align="left">
-  <img src="./assets/logo-removebg-preview.png" alt="GraphScrDom Logo" width="100"/>
-</p>
-
-# GraphScrDom
+<table>
+  <tr>
+    <td><img src="./assets/logo-removebg-preview.png" alt="GraphScrDom Logo" width="60"/></td>
+    <td><h1 style="margin-left: 10px;">GraphScrDom</h1></td>
+  </tr>
+</table>
 
 'add description here'
 
@@ -34,7 +35,7 @@ We provide both **Windows** and **macOS** compatible versions of the Scribble To
 Use the generated annotations from **Module 1**, along with cell type compositions and optional ground-truth labels, to train and evaluate the **GraphScrDom** domain detection model in **Google Colab**.
 
 #### 📥 Required Inputs:
-- spatial transcriptomics data in .h5/.h5ad
+- `anndata`: spatial transcriptomics data in .h5/.h5ad
 - `scribble.csv`: partial labels from Scribble Tool  
 - `deconvolution.csv`: cell type composition matrix (e.g., from **Cell2location**)  
 - `annotation.csv` *(optional)*: ground-truth domain labels for evaluation only  
