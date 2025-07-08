@@ -19,8 +19,10 @@ The pipeline consists of two main modules:
 Use the **GraphScrDom** tool to manually annotate scribbles on the tissue image via free-form lasso selections, providing **partial supervision** for downstream training.  
 We provide both **Windows** and **macOS** compatible versions of the Scribble Tool.
 
-#### 🖼️ GUI Example:
-*Add screenshot here*  
+#### GUI Example:
+<p align="center">
+  <img src="./assets/GUI.png" alt="Scribble Tool Demo" width="600"/>
+</p>
 _(Example: Scribble Tool with color-coded region selection)_
 
 ---
