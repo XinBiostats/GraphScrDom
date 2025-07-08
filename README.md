@@ -3,9 +3,7 @@
 </p>
 
 # GraphScrDom
-
-A two-module pipeline for spatial domain detection using partial supervision from scribble annotations and multimodal spatial transcriptomics data.
-
+'placeholder'
 ---
 
 ## 📦 Pipeline Overview
