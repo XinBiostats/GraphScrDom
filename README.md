@@ -1,6 +1,6 @@
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="./assets/logo-removebg-preview.png" alt="GraphScrDom Logo" width="60"/></td>
+    <td><img src="./assets/logo-removebg-preview.png" alt="GraphScrDom Logo" width="50"/></td>
     <td><h1 style="margin-left: 10px;">GraphScrDom</h1></td>
   </tr>
 </table>
