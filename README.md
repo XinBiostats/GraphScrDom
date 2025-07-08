@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./assets/logo-removebg-preview.png" alt="GraphScrDom Logo" width="160"/>
+  <img src="./assets/logo-removebg-preview.png" alt="GraphScrDom Logo" width="100"/>
 </p>
 
 # GraphScrDom
