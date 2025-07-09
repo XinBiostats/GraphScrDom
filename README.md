@@ -9,6 +9,9 @@ GraphScrDom is a semi-supervised spatial domain detection tool designed for spat
 ## 📦 Pipeline Overview
 
 The pipeline consists of two main modules:
+<p align="center">
+  <img src="./assets/GraphScrDom.png" alt="GraphScrDom Overview" width="600"/>
+</p>
 
 ---
 
