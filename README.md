@@ -1,4 +1,3 @@
-%<img src="./assets/logo-removebg-preview.png" alt="GraphScrDom Logo" width="80" style="margin-bottom: 0px;"/>%
 
 # GraphScrDom
 
