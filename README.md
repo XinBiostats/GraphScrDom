@@ -39,7 +39,7 @@ Use the generated annotations from **Module 1**, along with cell type compositio
 
 #### 💻 Colab Example:
 
-**[Run this notebook in Google Colab](https://colab.research.google.com/drive/1HXGAxCDhzCQFMVTfWgVgLjrehmcSbb8U?usp=drive_link)**
+**[Run this notebook in Google Colab](https://colab.research.google.com/drive/1HDQB4R5XMFmdpT4wFR9GZPdSnKuFRYc5?usp=drive_link)**
 
 <p align="center">
   <img src="./assets/output.png" alt="GraphScrDom Output Example" width="600"/>
