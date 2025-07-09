@@ -1,7 +1,7 @@
 
 # GraphScrDom
 
-GraphScrDom is a semi-supervised spatial domain detection tool designed for spatial transcriptomics data. It integrates spatial gene expression and cell type composition through a graph-based deep learning framework. Users can interactively annotate partial labels via histology-guided scribbles. GraphScrDom achieves accurate and biologically meaningful spatial domain identification, even with minimal supervision.
+**GraphScrDom** is a semi-supervised spatial domain detection tool designed for spatial transcriptomics data. It integrates spatial gene expression and cell type composition through a graph-based deep learning framework. Users can interactively annotate partial labels via histology-guided scribbles. GraphScrDom achieves accurate and biologically meaningful spatial domain identification, even with minimal supervision.
 
 ---
 
