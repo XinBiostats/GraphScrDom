@@ -33,7 +33,7 @@ Use the generated annotations from **Module 1**, along with cell type compositio
 
 #### 📥 Required Inputs:
 - `anndata`: spatial transcriptomics data in .h5/.h5ad
-- `scribble.csv`: partial labels from Scribble Tool  
+- `scribble_output.csv`: partial labels from Scribble Tool  
 - `deconvolution.csv`: cell type composition matrix (e.g., from **Cell2location**)  
 - `annotation.csv` *(optional)*: ground-truth domain labels for evaluation only  
 
